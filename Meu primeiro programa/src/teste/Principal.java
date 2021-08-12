@@ -10,6 +10,7 @@ public class Principal {
 		// Este codigo serve para cirar o objeto
 		String nome = in.nextLine();
 		System.out.printf("Olá %s\n", nome);
+		// outro teste
 		String a = "Weslley";
 		// este codigo serve para printar o nome
 	}
