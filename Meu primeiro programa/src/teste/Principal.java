@@ -19,6 +19,7 @@ public class Principal {
 		String d = "errandao";
 		String aroz = "Quem sabe funciona";
 		String sera = "Sera que vai";
+		String agora = "Agora foooooi"
 	}
 
 }
