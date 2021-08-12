@@ -16,6 +16,7 @@ public class Principal {
 		// alteração para simular merge
 		String b = "Errado";
 		String c = "errando";
+		String d = "errandao";
 	}
 
 }
