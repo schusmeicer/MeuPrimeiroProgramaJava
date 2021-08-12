@@ -15,6 +15,7 @@ public class Principal {
 		// este codigo serve para printar o nome
 		// alteração para simular merge
 		String b = "Errado";
+		String c = "errando";
 	}
 
 }
